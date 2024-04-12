@@ -1,10 +1,5 @@
 #include "binary_trees.h"
 
-void print_num(int number)
-{
-	printf("%d\n", number);
-}
-
 int main(void)
 {
     binary_tree_t *root;
